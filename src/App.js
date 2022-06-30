@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 import Footer from './components/Footer/Footer';
 import NavBar from './components/NavBar'
 import NewsContent from './components/newsContent/NewsContent';
-import apikey from "./data/config"
+
 
 function App() {
 
